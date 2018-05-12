@@ -1,0 +1,30 @@
+_repo: Keats_41688
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41688-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Colvin, Sidney
+    birthdate: 1845
+    deathdate: 1927
+    gutenberg_agent_id: '34550'
+    url: http://www.gutenberg.org/2009/agents/34550
+description: This significant biography of the poet John Keats (1795 1821), is part
+  of the highly respected English Men of Letters series. Keats is best known for his
+  six great odes, and although his poems were not well received during his lifetime,
+  they are now considered among the finest in the English language.
+gutenberg_issued: '2012-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41688'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Keats, John, 1795-1821'
+- !lcsh 'Poets, English -- 19th century -- Biography'
+title: Keats
+url: http://www.gutenberg.org/ebooks/41688
